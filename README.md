@@ -478,10 +478,10 @@ pretium ac.</p>
         </nav>
         <section id="introduce">
             <div class="row">
-                <img src="C:\Users\Asus\Pictures\milik rini\edit.JPG" title="Rini Ariza" alt="Rini Ariza" class="image-circle" width="230"
+                <img src="C:\Users\Asus\Pictures\galva ganteng\edit.JPG" title="galva" alt="galva" class="image-circle" width="230"
                 style="float: left; border: 2px solid black;">
                 <h1>Haii bro!</h1>
-                <p align="justify">Nama saya Rini Ariza, Saya lahir di Bekasi, 8 Mei 2004.
+                <p align="justify">Nama saya galva alghazali, Saya lahir di Bekasi, 7 juni 2001.
                 Saya Mahasiswa Semester 3 di Universitas Pelita Bangsa, Saya Jurusan Teknik Informatika yang sedang mempelajari materi HTML dan CSS.
                 </p>
                 
